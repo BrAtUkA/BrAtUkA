@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./imgs/logo-banner-neon.png" alt="BrAtUkA Banner" width="100%"/>
+</div>
+
 ## Hi there 👋
 
 <!--
