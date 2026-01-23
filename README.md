@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://bratuka.dev"><strong>bratuka.dev</strong></a> · CS Student · Full-Stack Dev · Islamabad 🇵🇰
+  <a href="https://bratuka.dev"><strong>bratuka.dev</strong></a> · CS Student · Full-Stack Dev · 3D Artist · Islamabad 🇵🇰
 </p>
 
 <p align="center">
