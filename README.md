@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./imgs/logo-banner-neon.png" alt="BrAtUkA" width="100%"/>
+  <img src="https://banner.bratuka.dev/" alt="BrAtUkA" width="100%"/>
 </div>
 
 <p align="center">
