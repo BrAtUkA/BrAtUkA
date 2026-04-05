@@ -1,3 +1,7 @@
+<p align="left">
+  <sub>↻ reload for a different banner</sub>
+</p>
+
 <div align="center">
   <img src="https://banner.bratuka.dev/" alt="BrAtUkA" width="100%"/>
 </div>
@@ -48,8 +52,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BrAtUkA&color=DC143C&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
-</p>
-
-<p align="left">
-  <sub>↻ reload for a different banner</sub>
 </p>
