@@ -2,13 +2,12 @@
   <img src="https://banner.bratuka.dev/" alt="BrAtUkA" width="100%"/>
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="33%" align="left"><sub>↻ reload for a different banner</sub></td>
-    <td width="34%" align="center"><a href="https://bratuka.dev"><strong>bratuka.dev</strong></a></td>
-    <td width="33%" align="right"><sub><a href="https://banner.bratuka.dev/all">all banners ↗</a></sub></td>
-  </tr>
-</table>
+<p align="right">
+  <sub><a href="https://banner.bratuka.dev/all">all banners ↗</a></sub>
+</p>
+<p align="center">
+  <a href="https://bratuka.dev"><strong>bratuka.dev</strong></a>
+</p>
 <p align="center">
    CS Student · Full-Stack Dev · 3D Artist · Islamabad 🇵🇰
 </p>
@@ -49,4 +48,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BrAtUkA&color=DC143C&style=for-the-badge&label=VISITORS" alt="Profile Views"/>
+</p>
+
+<p align="left">
+  <sub>↻ reload for a different banner</sub>
 </p>
