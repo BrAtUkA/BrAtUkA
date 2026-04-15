@@ -44,7 +44,7 @@
 ### Stats
 
 <p align="center">
-  <img width="360" height="180" src="https://readme-stats.bratuka.dev/api?username=BrAtUkA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&" alt="GitHub Stats"/>&nbsp;&nbsp;
+  <!-- <img width="360" height="180" src="https://readme-stats.bratuka.dev/api?username=BrAtUkA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&" alt="GitHub Stats"/>&nbsp;&nbsp; -->
   <img width="360" height="180" src="https://readme-stats.bratuka.dev/api/top-langs/?username=BrAtUkA&layout=compact&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&langs_count=6&card_width=400&" alt="Top Languages"/>
 </p>
 
