@@ -28,7 +28,7 @@
 
 ### Currently
 
-- 🔨 Building cool stuff with **AI**, **Flutter**, and **Node.js**
+- 🔨 Building cool stuff with **AI**, **Tauri**, and **Node.js**
 - 📚 Learning cloud architecture & scalable systems
 - 🎨 Crafting clean UI/UX experiences
 
