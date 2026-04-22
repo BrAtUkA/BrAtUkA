@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bratuka.dev"><img src="https://img.shields.io/badge/Portfolio-DC143C?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://bratuka.dev"><img src="https://img.shields.io/badge/BrAtUkA-DC143C?style=flat-square&logo=safari&logoColor=white" alt="Organization BrAtUkA"/></a>
   <a href="https://instagram.com/_BrAtUkA_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://twitter.com/BrAtUkA_dev"><img src="https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.reddit.com/user/_BrAtUkA_/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"/></a>
