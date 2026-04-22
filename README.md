@@ -11,9 +11,9 @@
 </p>
 <p align="center">
   <a href="https://bratuka.dev"><strong>bratuka.dev</strong></a>
-</p>
+</p>  
 <p align="center">
-   CS Student · Full-Stack Dev · 3D Artist · Islamabad 🇵🇰
+   Fast · Reliable · Open-Source AI Tools · 3D Art · Founder @ bratuka.dev 🇵🇰
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 
 ### Currently
 
-- 🔨 Building cool stuff with **AI**, **Tauri**, and **Node.js**
-- 📚 Learning cloud architecture & scalable systems
-- 🎨 Crafting clean UI/UX experiences
+- 🛠️ Building open-source **AI-native tools** at [bratuka.dev](https://bratuka.dev)
+- 🦀 Shipping desktop apps with **Tauri** + **Rust**
+- ☁️ Deploying on cloud infrastructure for scale
 
 ---
 
